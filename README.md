@@ -1,5 +1,4 @@
 <div style="font-family: Arial, sans-serif; color: #333;">
- <h1 align='center'>Greetings <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   <p align='center'>
     <a href="https://wakatime.com/@018d7fcd-3625-4d05-9e6b-2a3cebe5299"><img src="https://wakatime.com/badge/user/018d7fcd-3625-4d05-9e6b-2a3cebe45299.svg"/></a>
     <a href="https://peerlist.io/Ali-Alinejad"><img src="https://github-readme-badge.peerlist.io/api/alirezagh031"/></a>
@@ -21,10 +20,10 @@
 
   <div align="center" style="margin-top: 30px">
     <h2>My Skills</h2>
-    <img src="https://skillicons.dev/icons?i=angular,css,discord,figma,github,git,gitlab,html,js,ts,jquery,nextjs,nodejs,nuxtjs,ps,pr,react,redux,stackoverflow,tailwind,vite,vscode,vue,windows,vercel,unreal,remix,py,cs,blender" />
+    <img src="https://skillicons.dev/icons?i=python,django,java,mysql,css,github,git,gitlab,html,js,ts,jquery,nodejs,nuxtjs,react,stackoverflow,tailwind,vite,vscode,vue" />
   </div>
 
   <div align="center" style="margin-top: 30px">
-    <a href="https://www.linkedin.com/in/alireza-ghodosi-23b878276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="www.linkedin.com/in/alireza-ghodosi-nejad-23b878276" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 </div>
